@@ -1,0 +1,9 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "big.js": "^6.1.1",
+    "near-api-js": "0.42.0"
+  }
+}
